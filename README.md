@@ -18,7 +18,7 @@ In this data engineering project, we leverage Amazon S3 and AWS Lambda to create
 
 ## Dataset Used:
 
-
+![dfdf](dimensional model.drawio (2).png)
 
 
 
