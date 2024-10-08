@@ -20,5 +20,12 @@ In this data engineering project, we leverage Amazon S3 and AWS Lambda to create
 
 ![Data Model](dimensional_model.png)
 
+## Dataset Used:
+
+Data is scraped from the website, https://www.na.gov.pk/en/all-members.php and https://www.na.gov.pk/en/attendance2.php, using Python's BeautifulSoup4 Library. 
+
+https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/members_details_raw/2024-09-25.csv
+https://github.com/sherafgunmetla/pak-senate-data-engineering/tree/main/members_attendance_raw
+
 
 
