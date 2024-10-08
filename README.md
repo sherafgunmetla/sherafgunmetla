@@ -16,9 +16,9 @@ In this data engineering project, we leverage Amazon S3 and AWS Lambda to create
 4. Snowflake ( Data Warehouse )
 5. Tableau ( Visualization )
 
-## Dataset Used:
+## Data Model:
 
-![dfdf](dimensional model.drawio (2).png)
+![Data Model](dimensional_model.png)
 
 
 
