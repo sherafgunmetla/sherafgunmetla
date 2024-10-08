@@ -35,3 +35,24 @@ There are 2 datasets. First one contains the members details e.g Name, Constitue
 1. [Scrap Scripts](https://github.com/sherafgunmetla/pak-senate-data-engineering/tree/main/Scripts/Scrap)
 2. [Cleaning & Transforming Scripts](https://github.com/sherafgunmetla/pak-senate-data-engineering/tree/main/Scripts/Transform)
 3. [Snowflake](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/snowflake_query.sql)
+
+## Tableau Visualization  
+
+
+![Main Dashboard](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/Screenshots/Date%20Filter.png)
+
+--------------
+
+![Main Dashboard](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/Screenshots/Donult%20Filter%202.png)
+
+--------------
+
+![Main Dashboard](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/Screenshots/Donut%20Filter.png)
+
+--------------
+
+![Main Dashboard](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/Screenshots/Main%20Dashboard.png)
+
+--------------
+
+![Main Dashboard](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/Screenshots/Party%20Filter.png)
