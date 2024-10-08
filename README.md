@@ -49,9 +49,6 @@ There are 2 datasets. First one contains the members details e.g Name, Constitue
 
 ![Main Dashboard](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/Screenshots/Donut%20Filter.png)
 
---------------
-
-![Main Dashboard](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/Screenshots/Main%20Dashboard.png)
 
 --------------
 
