@@ -24,8 +24,8 @@ In this data engineering project, we leverage Amazon S3 and AWS Lambda to create
 
 Data is scraped from the website, https://www.na.gov.pk/en/all-members.php and https://www.na.gov.pk/en/attendance2.php, using Python's BeautifulSoup4 Library. 
 
-https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/members_details_raw/2024-09-25.csv
-https://github.com/sherafgunmetla/pak-senate-data-engineering/tree/main/members_attendance_raw
+- https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/members_details_raw/2024-09-25.csv
+- https://github.com/sherafgunmetla/pak-senate-data-engineering/tree/main/members_attendance_raw
 
 ### More about the dataset
 There are 2 datasets. First one contains the members details e.g Name, Constituency, Address, City, Province & Party. The second one is member's attendance in the session, in the form of pdf files, which are uploaded when the session is held. 
