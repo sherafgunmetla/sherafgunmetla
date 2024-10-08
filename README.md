@@ -32,4 +32,6 @@ There are 2 datasets. First one contains the members details e.g Name, Constitue
 
 ## Scrips for the project
 
-1. [Scrap Python Files](https://github.com/sherafgunmetla/pak-senate-data-engineering/tree/main/Scripts/Scrap)
+1. [Scrap Scripts](https://github.com/sherafgunmetla/pak-senate-data-engineering/tree/main/Scripts/Scrap)
+2. [Cleaning & Transforming Scripts](https://github.com/sherafgunmetla/pak-senate-data-engineering/tree/main/Scripts/Transform)
+3. [Snowflake](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/snowflake_query.sql)
