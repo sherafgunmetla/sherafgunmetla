@@ -32,4 +32,4 @@ There are 2 datasets. First one contains the members details e.g Name, Constitue
 
 ## Scrips for the project
 
-1. [Scrap Python Files](blob/main/members_details_scrap_lambda.py)
+1. [Scrap Python Files](https://github.com/sherafgunmetla/pak-senate-data-engineering/tree/main/Scripts/Scrap)
