@@ -27,5 +27,9 @@ Data is scraped from the website, https://www.na.gov.pk/en/all-members.php and h
 https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/members_details_raw/2024-09-25.csv
 https://github.com/sherafgunmetla/pak-senate-data-engineering/tree/main/members_attendance_raw
 
+### More about the dataset
+There are 2 datasets. First one contains the members details e.g Name, Constituency, Address, City, Province & Party. The second one is member's attendance in the session, in the form of pdf files, which are uploaded when the session is held. 
 
+## Scrips for the project
 
+1. [Scrap Python Files](blob/main/members_details_scrap_lambda.py)
