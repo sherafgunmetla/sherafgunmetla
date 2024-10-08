@@ -8,9 +8,22 @@ In this data engineering project, we leverage Amazon S3 and AWS Lambda to create
 The data engineering project is about finding interesting insights from a country's senate website. The website contains data about the session and the members/senator who were present in the session. Senators information e.g names, constituencies, party, province/state, and the city is also present. The project aims to blend all of this for interesting insights like which party's senators participate in the sessions regularly, individual senator participating trends, city or state/province-wise participation, etc. 
 
 ## Directory contents:
- - Screenshots -> Contains Tableau dashboard screenshots.
- - Scripts -> Python scripts of extraction from website, transformation/cleaning of data.
- - Data -> Scraped data in raw format and cleaned/transformed data.
+ - Screenshots 
+   Contains Tableau dashboard screenshots.
+   
+ - Scripts
+   Python scripts for extraction from website, transformation/cleaning in the lambda function.
+   
+ - Scraped data in the raw format in the below directories.
+
+    1. members_attendance_raw
+    2. members_details_raw
+       
+ - Cleaned/Transformed data in the below directories.  
+     1. members_attendance_cleaned
+     2. members_details_cleaned
+     3. validation_&_merge
+       
    
 ## Architecture 
 ![Project Arhitecture](Architecture.png)
