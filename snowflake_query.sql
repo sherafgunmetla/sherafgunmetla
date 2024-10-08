@@ -42,8 +42,8 @@ CREATE or REPLACE STAGE stage_schema.members_details_s3
 
 CREATE or REPLACE STAGE stage_schema.sessions_s3
     url = "s3://members-attendence-transformed/"
-    credentials = (aws_key_id = 'AKIA24PJHA677MKJN3H6'
-    aws_secret_key= 'tQAXiygXqYX8qA2cAPNnWG39cmlUrbTZ/DWIsyZ8')
+    credentials = (aws_key_id = '############'
+    aws_secret_key= '################################')
     FILE_FORMAT = S3_DB.file_format_schema.format_csv
 ;
 
